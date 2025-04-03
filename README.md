@@ -16,6 +16,8 @@ lib/
 │── main.dart           # App entry point
 
 
+
+
 # used Dependencies
 equatable : (https://pub.dev/packages/equatable),
 flutter_bloc : (https://pub.dev/packages/flutter_bloc),
